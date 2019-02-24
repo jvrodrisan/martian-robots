@@ -24,4 +24,4 @@ This project includes just one file written in `python` with three modes of work
   - Normal mode: If Normal mode is enabled, the program input is similar to the sample data with no other verbose information.
   - Verbose mode: If Verbose mode is enabled, the program will indicate the user how to proceed in every input.
   
-To run, simply configure the mode in the `mode`variable in the MartianRobots.py file.
+To run, simply configure the mode in the `mode` variable in the MartianRobots.py file.
